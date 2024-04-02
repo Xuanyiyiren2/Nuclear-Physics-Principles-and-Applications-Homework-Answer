@@ -1,6 +1,10 @@
 Name: 张轩
 Student ID: 21300200034
 
+All the calculation can be found in my repository on Github:
+
+[https://github.com/Xuanyiyiren2/Nuclear-Physics-Principles-and-Applications-Homework-Answer/blob/main/hw2c/hw2c.ipynb](https://github.com/Xuanyiyiren2/Nuclear-Physics-Principles-and-Applications-Homework-Answer/blob/main/hw2c/hw2c.ipynb)
+
 ## Question 1
 
 During a diagnostic $X$-ray, a broken leg with a mass of $5\,\mathrm{kg}$ receives an equivalent dose of $0.5\,\mathrm{mSv}$. If the $X$-ray energy is $50\,\mathrm{keV}$, how many X-ray photons were absorbed?
