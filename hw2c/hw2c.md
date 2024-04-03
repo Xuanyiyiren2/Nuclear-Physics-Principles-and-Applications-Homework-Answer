@@ -112,7 +112,7 @@ By the help of `.csv` file on the website and the interpolate data in the Table 
 
 So the result is
 $$
-\dot D = 0.028\times 10^{-} = 1.33\times 10^{-7}\,\mathrm{Gy/s}=0.48\,\mathrm{mGy/h}
+\dot D  = 1.33\times 10^{-7}\,\mathrm{Gy/s}=0.48\,\mathrm{mGy/h}
 $$
 
 ## Question 5
