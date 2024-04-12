@@ -25,7 +25,7 @@ The specific rate of energy loss $-\frac 1\rho\frac{\mathrm{d}E}{\mathrm{d}x}$ o
 
 According to the Bethe-Bloch formula,
 $$
-\left(-\frac{\mathrm{d}E}{\mathrm{d}s}\right)_{\text {coll }}=\rho \frac{Z}{A} z^2 f(I, \beta)
+\left(-\frac{\mathrm{d}E}{\mathrm{d}x}\right)_{\text {coll }}=\rho \frac{Z}{A} z^2 f(I, \beta),
 $$
 The collisional stopping power also depends on the density $\rho$ of the stopping medium, the ratio $Z/A$ of the medium's atomic number to the atomic mass (atomic mass units), and the effective ionization potential $I$ (typically a few tens of eV) of the medium.
 
@@ -36,14 +36,13 @@ $$
 R\propto E/\left(\frac 1\rho\frac{\mathrm{d}E}{\mathrm{d}x}\right)
 $$
 
-
-|         Particle         | Charge $z$ | Stopping Power($\mathrm{keV\,mg^{-1}cm^2}$) | Energy rate | Range($\mathrm{mg\,cm^{-2}}$) |
-| :----------------------: | :--------: | :-----------------------------------------: | :---------: | :---------------------------: |
-|        proton $p$        |    $1$     |                    $59$                     |     $1$     |             $50$              |
-|       deuteron $d$       |    $1$     |                    $59$                     |    $1/2$    |             $25$              |
-|       tritons $t$        |    $1$     |                    $59$                     |    $1/3$    |            $16.7$             |
-|       $\ce{^3He}$        |    $2$     |               $59\times4=236$               |    $1/3$    |            $4.17$             |
-| $\alpha$ ($\ce{^{4}He}$) |    $2$     |               $59\times4=236$               |    $1/4$    |            $3.13$             |
+| Particle                           |   mass(u) |   charge(e) |   stopping power(SI) |   relative energy |   Range |
+|:-----------------------------------|----------:|------------:|---------------------:|------------------:|--------:|
+| proton $p$                         |         1 |           1 |                   59 |                 1 |    50   |
+| deutron $d$                        |         2 |           1 |                   59 |                 2 |   100   |
+| tritons $t$                        |         3 |           1 |                   59 |                 3 |   150   |
+| 3-helium nuclei $\ce{^3He}$        |         3 |           2 |                  236 |                 3 |    37.5 |
+| 4-helium nuclei $\ce{^4He},\alpha$ |         4 |           2 |                  236 |                 4 |    50   |
 
 ## Question 3
 

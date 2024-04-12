@@ -56,6 +56,8 @@ $$
 t^e_{1/2} = \frac{1}{\frac {1}{t_{1/2}}+\frac{1}{t^b_{1/2}}}.
 $$
 
+If $t_{1/2}\gg t^b_{1/2}$,we have $t^e_{1/2}=t^b_{1/2}$.
+
 ## Question 4
 
 What is the gamma-ray absorbed dose rate ($\mathrm{Gy/h}$) in an infinite air medium at a distance of $10\,\mathrm{cm}$ from a $1\,\mathrm{mCi}$ point source of  

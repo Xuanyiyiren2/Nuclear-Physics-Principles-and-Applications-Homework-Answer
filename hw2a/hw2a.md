@@ -29,7 +29,7 @@ Both the mode of reaction is $\beta$-decay.
 
 ## Question 2
 
-An initial number $N_{\ce{A}}(0)$ of nuclei $\ce{A}$ decay into daughter nuclei $\ce{B}$, which are also radioactive. The respective decay probabilities are $\lambda_\ce{A}$ and $\lambda_\ce{B}$. If $\lambda_\ce{A}=2\lambda_\ce{B}$ , calculate the time (in terms of $\lambda_\ce{A}$) when $N_\ce{B}$ is at its maximum. Calculate $N_\ce{B}$ (max) in terms of $N_\ce{A}(0)$.
+An initial number $N_{\ce{A}}(0)$ of nuclei $\ce{A}$ decay into daughter nuclei $\ce{B}$, which are also radioactive. The respective decay probabilities are $\lambda_\ce{A}$ and $\lambda_\ce{B}$. If $\lambda_\ce{B}=2\lambda_\ce{A}$ , calculate the time (in terms of $\lambda_\ce{A}$) when $N_\ce{B}$ is at its maximum. Calculate $N_\ce{B}$ (max) in terms of $N_\ce{A}(0)$.
 
 #### Answer
 
@@ -51,7 +51,7 @@ $$
 \Rightarrow t_{\max}=\frac{\ln \lambda_\ce{A}-\ln \lambda_\ce{B}}{\lambda_A-\lambda_B}\\
 N_{\ce{B}\max}=N_{\ce{A}0}\left(\frac{\lambda_\ce{A}}{\lambda_\ce{B}}\right)^{-\frac{\lambda_\ce{B}}{\lambda_\ce{A}-\lambda_\ce{B}}}.
 $$
-If $\lambda_\ce{A}=2\lambda_\ce{B}$, we have
+If $\lambda_\ce{B}=2\lambda_\ce{A}$, we have
 $$
 t_{\max} = \frac{2\ln2}{\lambda_\ce{A}}\\
 N_{\ce{B}\max} = \frac{N_{\ce{A}0}}{2}
@@ -92,14 +92,14 @@ P(t\leq T)=1-\mathrm{e}^{-\lambda T}.
 $$
 If the radioisotope decrease by $30\%$ , this means
 $$
-P(t<T_1)=0.3,T_1=2\,\mathrm{wk} = 1209600 \,\mathrm{s}
+P(t<T_1)=0.3,T_1=1\,\mathrm{wk} = 604800 \,\mathrm{s}
 $$
 Solving this equation we get
 $$
-\lambda = \frac{-\ln 0.7}{T_1}=2.949\times10^{-7}\,\mathrm{Bq}
+\lambda = \frac{-\ln 0.7}{T_1}=5.897\times10^{-7}\,\mathrm{Bq}
 $$
 Now we can easily get the rest parameters,
 $$
-T_{1/2}=\frac{\ln 2}{\lambda} =\frac{\ln 2}{-\ln 0.7} T_1 =2350686\,\mathrm{s} = 3.88\,\mathrm{wk}\\
-T_{\text{life}} = \frac{1}{\lambda } = \frac{T_1}{-\ln 0.7} = 3391323\,\mathrm{s} = 5.61\,\mathrm{wk}
+T_{1/2}=\frac{\ln 2}{\lambda} =\frac{\ln 2}{-\ln 0.7} T_1 =2350686\,\mathrm{s} = 1.943\,\mathrm{wk}\\
+T_{\text{life}} = \frac{1}{\lambda } = \frac{T_1}{-\ln 0.7} = 3391323\,\mathrm{s} = 2.804\,\mathrm{wk}
 $$
