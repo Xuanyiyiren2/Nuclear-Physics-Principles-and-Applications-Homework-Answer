@@ -1,6 +1,3 @@
-Name: 张轩
-Student ID: 21300200034
-
 All the calculation can be found in my repository on Github:
 
 [https://github.com/Xuanyiyiren2/Nuclear-Physics-Principles-and-Applications-Homework-Answer/blob/main/hw2c/hw2c.ipynb](https://github.com/Xuanyiyiren2/Nuclear-Physics-Principles-and-Applications-Homework-Answer/blob/main/hw2c/hw2c.ipynb)

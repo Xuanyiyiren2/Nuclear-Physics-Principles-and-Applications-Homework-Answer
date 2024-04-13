@@ -1,6 +1,3 @@
-Name: 张轩
-Student ID: 21300200034
-
 ## Question 1
 
 A material is found to have a tenth-thickness of $2.3\,\mathrm{cm}$ for $1.25\,\mathrm{MeV}$ $\gamma$ rays, 

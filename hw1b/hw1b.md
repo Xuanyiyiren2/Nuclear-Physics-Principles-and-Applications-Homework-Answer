@@ -1,6 +1,3 @@
-Name: 张轩
-Student ID: 21300200034
-
 ## Question 1
 
  What are the products of these reactions, $^{14}\mathrm{B}( ,\beta)$，$^{9}\mathrm{Be} (^6\mathrm{Li}, p)$，$^9\mathrm{Be}(^7\mathrm{Li}, d)$，$^{11}\mathrm{B} (\alpha, p)$，$^{12}\mathrm{C}(\alpha, d)$，$^{12}\mathrm{C}(t,p)$?

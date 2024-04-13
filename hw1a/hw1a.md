@@ -1,6 +1,3 @@
-Name: 张轩
-Student ID: 21300200034
-
 # Question 1
 
 Describe the Rutherford alpha scattering experiment in detail. What did he and his students observe, and what conclusions did they give?  What is the impact of Rutherford’s conclusions on the structures of atoms?

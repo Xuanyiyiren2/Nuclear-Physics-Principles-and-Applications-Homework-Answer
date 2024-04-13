@@ -1,6 +1,3 @@
-Name: 张轩
-Student ID: 21300200034
-
 ## Question 1
 
 $\ce{^36Cl}$ decays into $\ce{^{36}S}(35.967081\,\mathrm{u})$ and ${ }^{36} \mathrm{Ar}$. If the energy release is $1.142\,\mathrm{MeV}$ to $^{36}\ce{S}$ and $0.709\,\mathrm{MeV}$ to $\ce{^{36}Ar}$, calculate the masses of $\ce{^{36}Cl}$ and $\ce{^{36}Ar}$. Describe the modes of decay.
